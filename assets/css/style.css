@@ -141,7 +141,9 @@ hr {
 
 .site-link {
   position: relative;
+  float: left;
   width: 400px;
+  margin: 20px;
   text-align: center;
 }
 
