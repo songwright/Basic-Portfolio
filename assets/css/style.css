@@ -82,7 +82,7 @@ hr {
   margin: auto;
 }
 
-.about {
+.about, .contact {
   background-color: #ffffff;
   padding: 28px;
 }
